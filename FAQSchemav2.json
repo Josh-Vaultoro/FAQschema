@@ -1,0 +1,343 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are Standard Tokens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The Standard Token (TST) is a versatile governance token associated with TheStandard, a cutting-edge decentralized finance (DeFi) platform. TST plays a pivotal role in the ecosystem, enabling holders to participate in protocol governance, access exclusive features, and earn rewards that come from all fees paid into the protocol when they borrow and payback. As an integral part of TheStandard's over-collateralized stablecoin protocol, TST supports multiple stablecoins pegged to various fiat currencies, commodities, as well as stocks . By leveraging Polygon Matic zk rollups, TST ensures a secure and scalable infrastructure for DeFi lending and borrowing. During launch events for new stablecoins into TheStandard, TST holders can also stake their tokens to earn a strong yield. This yield-generation feature attracts users seeking to maximize their earnings in the DeFi space. TST tokens grant access to unique features such as smart vault alarms, trading locked collateral, selling debt as NFTs, auto stop loss, multiply vaults, and auto trading collateral. Users can unlock these functionalities by paying a small amount of TST, which will be burned, creating a deflationary effect.In summary, The Standard Token (TST) is a powerful and feature-rich governance token, central to the operation & growth of TheStandard.io DeFi lending platform. Its multiple use cases, from protocol governance to feature unlocking, make it an attractive asset for users seeking a comprehensive DeFi experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are Standard Tokens created?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A total of 1 billion Standard Tokens (TST) has been minted on the Ethereum blockchain, some of the features in the protocol need TST to work and when people use them it burns the TST. Interested users have two primary options: Buying TST on secondary markets or taking part in liquidity bonding events when new stablecoins are being launched. The current stablecoin initial minting event is sEURO, with sUSD, sGBP, sCAD, sAUD, sINR and so on to come. The initial minting/bonding events serve as an opportunity to join the growing community of TST holders and directly contribute to the platform's development. By participating in these events, users can obtain TST tokens while supporting the expansion of TheStandard's innovative DeFi lending and borrowing solutions. To ensure you stay informed and do not miss out on these unique opportunities, it is highly recommended that you join TheStandard's Discord community. By becoming a member of The Standard Discord server, you'll gain access to important updates, engage with like-minded DeFi enthusiasts, and receive timely information about the liquidity bonding event and other exciting developments within the platform.Securing your share of the 1 billion Standard Tokens minted on the Ethereum blockchain can also be achieved through secondary markets or the upcoming liquidity bonding event. To stay updated and not miss out on any critical information, join TheStandard's Discord community today.You can buy TST from CoinBase, Uniswap, and other DEXs"
+      }
+    },
+    {
+        "@type": "Question",
+        "name": "What is The Standard Tokens used for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard Token (TST) serves various purposes within TheStandard's DeFi platform, providing holders with an array of benefits and access to exclusive features. Here are some key uses of TST:1: Staking Rewards: TST holders can stake their tokens to receive substantial staking rewards, sourced from fees paid by users borrowing DeFi loans against their collateral. Staking TST removes tokens from the market by locking them in staking smart contracts.‍2: Protocol Controlled Value (PCV) Rewards: TST stakers also benefit from PCV deployment by the DAO, which collects trading fees from automated market makers. These rewards are distributed among TST stakers, further increasing the token's earning potential.3: Governance: TST holders can participate in the platform's governance, voting on important decisions and influencing the platform's development.4: Unlocking Exclusive Features: TST tokens enable access to various premium features within TheStandard platform, such as: Smart vault alarms: Receive alerts related to your vaults. Trading locked collateral: Trade the collateral locked in your smart vaults. Selling debt as NFTs: Convert and sell your debt as non-fungible tokens. Auto stop loss: Implement automatic stop-loss orders to protect your investments. Multiply vaults: Manage multiple vaults simultaneously.  Auto trading collateral: Automate collateral trading to optimize your DeFi strategy. In summary, The Standard Token (TST) offers a range of benefits and access to exclusive features, making it a valuable asset within TheStandard's DeFi ecosystem. From staking rewards and governance participation to unlocking premium functionalities, TST holders can fully leverage the platform's potential and maximize their DeFi experience. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I get Standard Token?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard just launched its first initial bonding curve offering. This enables people to grab TST and sEURO at a substantial discount.All this will be easily done on TheStandard.io, which is building the reference interfaces to The Standard smart contracts.You can also simply swap most cryptos for TST using uniswap or other DEX's‍When purchasing TST please make sure you are buying the correct TST as there are other tokens also called TST. To make sure you have the right TST you can simply search for the TST contract address in uniswap rather then simply typing in TST.The TST contract address to search for is 0xa0b93b9e90ab887e53f9fb8728c009746e989b53‍‍ Mainnet ERC20 Contract Addresses:TST on ETH Mainnet: 0xa0b93b9e90ab887e53f9fb8728c009746e989b53https://etherscan.io/address/0xa0b93b9e90ab887e53f9fb8728c009746e989b53‍TST on Polygon (MATIC) network: 0xe342ebb6a56cd3dbf0fe01a447fe367b9290ecf8https://polygonscan.com/address/0xe342ebb6a56cd3dbf0fe01a447fe367b9290ecf8‍‍sEURO ETH Mainnet: 0xb399511642FE1666c6a07f83483e6E4feAed9A00https://etherscan.io/address/0xb399511642FE1666c6a07f83483e6E4feAed9A00Be sure to add TST to your wallet like metamask so that it shows up."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the token distribution work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The next and major token distribution will happen through a 3 step bonding and staking mechanism. ‍Initial bonding curve Users will buy sEURO at a discount starting at 80 cents. For every cent of value sent to the contract, the discount will be less until we reach 95 cents.  This rewards early participants and all funds collected make up the Protocol Controlled Value (PCV). The funds in the PCV pool will get deployed by the DAO into AMM's and a percentage of profits from the deployment is rewarded to TST staking pools.‍Liquidity Bonding‍The next step is to incentivize people and bots that now have sEURO from the step above to place that into liquidity pools on UNISWAP and swap the Uni swap LPNFT for a bond that pays a strong ROI yield in TST ready for staking.We will be building these bonds out to include different pairs.‍Staking TST‍You have now realized a large gain on your initial contribution in step 1 and can now stake that gain to receive rewards that are made up from deploying the PCV into AMM's. 80% of profits will be distributed to TST stakers and 20% will compound into the PCV.Using Smart VaultsDeFi users that lock up crypto and take loans receive of a negative interest rate where people get paid TST for taking out 0% interest loans. The TST will be calculated on how much debt a user has taken out. This will reward users of the protocol. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is The Standard Token (TST) a governance token?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, The Standard Token (TST) is a governance and membership token that plays a pivotal role in TheStandard's DeFi ecosystem. As a governance token, TST enables its holders to actively participate in the platform's decision-making processes, shaping the future development and direction of the platform.TST holders can propose and vote on critical decisions, such as protocol upgrades, new feature implementations, and adjustments to platform parameters. This decentralized governance model empowers the community, ensuring that the platform remains transparent and adaptable to users' needs.By holding TST, users can influence the evolution of TheStandard's DeFi lending and borrowing solutions, fostering innovation and optimizing the platform's services to meet the demands of the ever-changing DeFi landscape. In essence, The Standard Token (TST) serves as a powerful tool for community-driven governance, promoting collaboration and collective decision-making within TheStandard DeFi platform."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many Standard Tokens (TST) exist?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "There is a mathematical cap of 1 billion Standard Tokens (1,000,000,000 TST) No more will ever exist. The Standard DAO has control of the treasury and its income from stability fees. The DAO can choose to burn income in which case the supply will slowly decrease forever or to distribute the income amongst TST stakers. The DAO could also decide to airdrop any coins on all Standard token holders, use them for marketing or anything the community decides."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the Standard Euro (sEURO)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TL:DR: The Standard Euro (sEURO) is a collateral-backed stablecoin launched by The Standard Protocol and pegged to the Euro. Users can mint sEURO by locking up digital and tokenized physical assets and borrowing against them via decentralized smart contracts, all while enjoying a 0% stability/interest fee.--The Standard Euro (sEURO) is the inaugural collateral-backed stablecoin introduced by The Standard Protocol. Pegged to the value of the Euro, sEURO is initially issued through an Initial Bonding Curve Offering (IBCO) and subsequently generated by users who lock up digital assets like Bitcoin, Ethereum, and Matic, as well as tokenized physical assets like gold. Utilizing decentralized smart contracts, users can borrow against their locked assets, minting sEURO in the process (with more stablecoins planned for future release).The Standard Protocol aims to offer a 0% stability/interest fee for borrowing and minting sEURO, providing users with a cost-effective method for leveraging their digital and physical assets. By enabling the creation of sEURO through collateralized borrowing, The Standard Protocol paves the way for a more accessible and efficient decentralized finance ecosystem."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I get Standard Euro?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TL;DR: Obtain Standard Euro (sEURO) through the Initial Bonding Curve Offering (IBCO), mint it by leveraging collateral in a Smart Vault, receive it in peer-to-peer transactions, or buy it on secondary markets and exchanges like Uniswap.====To acquire Standard Euro (sEURO), users have several options available. Initially, participants in the Initial Bonding Curve Offering (IBCO) can purchase sEURO at a price below the value of a Euro. This mechanism not only rewards early adopters but also allows the protocol to establish substantial liquidity.After the IBCO, users can mint sEURO by leveraging various fungible assets as collateral in a decentralized smart contract called a Smart Vault. This process enables the unlocking of the stored value in assets, allowing users to benefit from 0% interest borrowing.In addition to these methods, Standard Euro (sEURO) can be sent and received peer-to-peer using compatible digital wallets, making it easy to transact within the stablecoin ecosystem. Lastly, users can acquire sEURO on secondary markets and cryptocurrency exchanges, such as Uniswap, where it is listed and traded.In essence, users have multiple ways to obtain Standard Euro (sEURO), including participating in the IBCO, minting via Smart Vaults, peer-to-peer transactions, and buying on secondary markets or exchanges like Uniswap.‍"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I earn attractive DeFi yields with sEURO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Boost your income with sEURO through the Initial Bonding Curve Event! By adding liquidity to pools and swapping LP tokens for 7-day maturity bonds, yield farmers can benefit from high-yielding opportunities in the DeFi space."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is an IBCO (Initial Bonding Curve Offering)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An IBCO (Initial Bonding Curve Offering) is a unique fundraising mechanism consisting of three stages designed to build deep liquidity and a stability pool for The Standard Protocol. The IBCO is made up of three yield farming stages.‍Stage 1: Initial Discount Curve OfferingIn this stage, participants can purchase sEURO at a discount, starting at 80 cents. As more liquidity enters the pool, the discount decreases until 1 sEURO equals 1 EURO. This process rewards early adopters and helps build the initial stability pool.‍Stage 2: Initial Bonding Curve OfferingOnce participants have purchased sEURO at a discount, they have two options: hold onto it until it reaches its 1 EURO value or purchases a liquidity bond. To purchase a bond, participants must provide an equal amount of sEURO and USDC to the Uniswap liquidity pool and sell the resulting LP NFT to the protocol for a bond. This is easily done through The Standard interface. Available bond durations include 7 days, 1 month, 3 months, and 6 months, with longer maturities yielding higher returns in TST. Note that the sEURO and USDC provided will not be returned to the user,  they are sold to the protocol in return for a high-yielding bond to create a stability pool. However, participants should receive more value back than they put in. This value is in the form of TST (The Standard Token).Stage 3: TST StakingAfter earning TST from stage 2, participants can stake their TST for a specified duration. The yield is paid out in sEURO, and the staked TST is returned to the user upon un-staking.The IBCO process is designed to build deep liquidity and a stability pool for The Standard Protocol, with fees generated by the pool distributed to TST stakers."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does an IBCO differ from a traditional ICO or IDO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An IBCO differs from traditional ICOs and IDOs in that it focuses on building liquidity and a stability pool. While ICOs and IDOs primarily raise funds for project development, IBCOs incentivize early participation with discounted stablecoins and bonding curve offerings, rewarding users with TST yield. This creates a more sustainable, long-term ecosystem for the protocol, benefiting both the project and its participants."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of participating in an IBCO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Participating in an IBCO offers several benefits:Early adoption rewards: By purchasing discounted sEURO during Stage 1, you can benefit from potential price appreciation as it reaches its 1:1 peg with the euro.Attractive yields: By providing liquidity in Stage 2 and acquiring bonds with varying maturities, you can earn TST yield, with longer maturities offering higher returns.Supporting the ecosystem: Your participation helps build deep liquidity and a stability pool for the protocol, ensuring a robust and reliable DeFi platform.Earning passive income: In Stage 3, staking TST tokens allows you to earn sEURO yield, providing a source of passive income while supporting the project.Enhanced token value: As the platform grows and succeeds, the demand for TST may increase, potentially leading to token value appreciation.By participating in an IBCO, you contribute to the project's success while reaping the rewards of early involvement and ongoing passive income generation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I participate in the IBCO if I am from a restricted country or region?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "While The Standard aims to be as inclusive as possible, participation in the IBCO may be subject to local laws and regulations. If you are from a restricted country or region, you may not be able to participate in the IBCO due to regulatory constraints. It is essential to check your local laws and regulations before attempting to participate in any cryptocurrency-related activities, including IBCOs. Always ensure you are compliant with the rules and regulations of your jurisdiction to avoid potential legal issues."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the risks associated with participating in an IBCO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Participating in an IBCO, like any investment, comes with certain risks. Some of the risks associated with participating in an IBCO include:Market volatility: The value of cryptocurrencies can be highly volatile, and the price of the tokens you receive may fluctuate significantly after the IBCO.Regulatory changes: Changes in regulations or enforcement actions by authorities may affect the project, the tokens, or the IBCO itself, potentially leading to losses or restricted participation.Project risks: The success of the project and its tokens depends on the team's ability to execute its vision and deliver on their promises. There's a risk that the project may not achieve its goals or fail all together.Liquidity risk: After the IBCO, there may be limited liquidity for the tokens in the market, making it difficult to buy or sell them at desired prices.Smart contract risks: The IBCO may rely on smart contracts, which can be vulnerable to coding errors, hacks, or exploits, potentially leading to a loss of funds.Competition: The project may face competition from other similar platforms, which could impact its growth and adoption.It's crucial to carefully consider these risks and conduct thorough research before participating in any IBCO. Only contribute what you are willing to lose, and make sure you understand the project's fundamentals, team, and vision."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I participate in The Standard's IBCO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "To participate in The Standard's IBCO, follow these steps:Visit The Standard's official website during the IBCO event.Connect your compatible wallet (e.g., Metamask) to the platform.Participate in Stage 1: Purchase discounted sEURO with your preferred currency (e.g., USDC, ETH, WBTC, DAI) as the discount curve reduces.In Stage 2: Provide liquidity by depositing an equal amount of sEURO and USDC into the Uniswap liquidity pool. Simply follow the prompts. unstacking.In Stage 3: Stake your acquired TST tokens on The Standard's platform to earn sEURO yield and claim your TST back upon unstaking. To Add both sEURO and TST to your metamask wallets please click here. ‍"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What happens to the funds raised during the IBCO, and how will they be used to further develop The Standard Protocol?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The funds raised during the IBCO are not used for development costs but are dedicated to building liquidity for the stability pool. This process is essential for bootstrapping each stablecoin launched within The Standard Protocol. By creating a deep liquidity pool, the protocol ensures the stability and reliability of the stablecoins, allowing them to maintain their peg to their respective fiat currencies. This mechanism helps build trust in the system and fosters the growth and adoption of The Standard Protocol's stablecoins, ultimately strengthening the entire ecosystem."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are TheStandard Smart Vaults?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A Smart Vault is an innovative, decentralized smart contract that allows users to securely lock up various digital and tangible assets, such as Bitcoin, Ethereum, and tokenized gold, as collateral in order to mint stablecoins like sEURO. This revolutionary DeFi borrowing mechanism provides the opportunity for users to access 0% interest loans while maintaining the safety and transparency of the blockchain. With Smart Vaults, you can easily leverage your assets and enjoy the benefits of decentralized finance without the high interest rates typically associated with traditional borrowing. high-interestOne of the key features of Smart Vaults is that you retain control of your private keys, ensuring no central party can speculate with your locked-up funds. This unique system allows you to effectively borrow money from yourself without trusting a third party, making it a true cypherpunk solution that is highly disruptive to traditional banking systems."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What assets can be deposited into  Smart Vaults?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard Smart Vaults aim to support a wide range of assets as collateral, ultimately striving to become the premier standard in stablecoins. At launch, Smart Vaults will accept Ethereum, Matic, and WBTC, but as the platform evolves, Standard token (TST) holders will be able to vote on the inclusion of new collateral types. The goal is to accommodate assets with real value, such as tokenized shares of blue-chip companies, indices, tokenized commodities, real estate, and more, thus establishing a robust, secure, and stable foundation for the ecosystem.While potentially even in-game item NFTs and various cryptocurrencies can be considered for collateral, it's important to note that only assets with significant liquidity will be viable options to maintain the stability and reliability of the platform.By continually expanding the range of supported assets, The Standard aims to provide users with unparalleled flexibility and convenience in DeFi borrowing while remaining committed to transparency, security, and decentralization."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can I trade my locked collateral to protect myself?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Trading your locked collateral is a valuable feature that helps protect your assets and maximize potential gains in various market conditions. By understanding why and when to trade your locked collateral, you can better manage your risk and enhance your financial position.‍Why trade locked collateral?Mitigating liquidation risks: During bear markets, the value of your collateral might decrease, increasing the risk of liquidation. By trading your locked collateral for a more stable asset, such as tokenized gold, you can reduce your exposure to market volatility and protect your assets from liquidation.‍Capitalizing on market opportunities: In bull markets, you might identify high-potential coins that can generate significant gains. By trading your locked collateral for these assets, you can benefit from their growth while maintaining your loan position.How to trade locked collateral:The Standard Protocol provides an easy-to-use interface for trading your locked collateral. To trade your locked collateral, follow these steps:Navigate to the smart vault that has the locked collateral you would like to trade and click Swap on the collateral you would like to trade. From there a simple interface pops up similar to any other DEX like UNISWAP. Once the Trade is complete, the balance will be deducted from that collateral type and credited to the other collateral type. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why would I want to sell my Smart vault as an NFT?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Selling your Smart Vault as an NFT (Non-Fungible Token) offers several benefits, providing flexibility and opportunities to optimize your financial position. The unique nature of NFTs allows for the transfer of your Smart Vault's ownership, along with its associated collateral and debt. Here are some reasons why you might want to sell your Smart Vault as an NFT:‍Liquidity: If you're in need of immediate liquidity but don't want to close your Smart Vault or pay off the debt, selling it as an NFT allows you to access funds while transferring the responsibility of managing the collateral and debt to the buyer. This can also save time and Gas fees as the user will not have to buy standard stablecoins to then close the vault. ‍Debt transfer: Selling your Smart Vault as an NFT enables you to transfer the associated debt to the buyer. This can be particularly useful if you're unable to pay off the debt or prefer to allocate your resources elsewhere. ‍Market opportunities: If you believe that the market value of your collateral is poised for growth, selling your Smart Vault as an NFT may attract buyers who share the same outlook and are willing to pay a premium for the potential upside.‍Portfolio rebalancing: If you want to restructure your portfolio or change your investment strategy, selling your Smart Vault as an NFT allows you to efficiently divest from your current position without the need to liquidate your assets individually.‍Innovative trading: As the NFT market continues to evolve, selling your Smart Vault as an NFT showcases the potential of combining DeFi and NFTs, offering buyers an innovative investment opportunity and potentially increasing the value of your Smart Vault in the process.NFT Scarcity: The Art that represents each smart vault is also collectible, a user might be lucky and receive an NFT that is highly coveted by the market. This adds value to the smart vault and so the user can capitalize on this and sell it. By selling your Smart Vault's NFT, you can unlock new opportunities to manage your financial position, tap into growing market trends, and engage with a broader range of potential buyers. This will enhance your overall experience with DeFi"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are The Standard's stability mechanics?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard protocol employs three key mechanisms to ensure that its stablecoins, such as sEURO, remain pegged to their respective values while offering a fundamentally different approach compared to failed stablecoin protocols like Terra Luna:Stability Pool: The Standard maintains a Protocol Controlled Value (PCV) pool, which accumulates funds during the Initial Bonding Curve Offering (IBCO). This pool enables users to buy and sell sEURO with a maximum spread of 200 basis points (2%). As a result, sEURO can always be bought at €1.01 and sold back to the pool at €0.99.Smart Vaults: Borrowers take out loans in sEURO through Smart Vaults. When the value of sEURO rises above €1, borrowers are incentivized to borrow more and sell it for a profit, helping bring the price back down to €1. Conversely, when the value of sEURO falls below €1, borrowers can buy sEURO from secondary markets to repay their debts at a discount, which in turn helps increase the price back to €1.Minting and Burning Fees: The Standard token (TST) holders can vote on small minting and burning fees, which helps mitigate extreme volatility and steer the price of sEURO towards its peg.‍Emergency Stability Fee: As a last resort, The Standard DAO can vote to temporarily increase the 0% interest rate for borrowers to restore the peg. By raising the cost of debt, borrowers are encouraged to buy sEURO from secondary markets and repay their loans. Note that The Standard aims to maintain a 0% interest rate for borrowers, with the Emergency Stability function reserved for rare black swan events.Unlike Terra Luna, which was not backed by any value, The Standard always maintains more real-world value locked up in its Smart Vaults than the number of stablecoins in circulation. This collateral is decentralized and locked up by potentially millions of users around the world, rather than being secured by a single bank like Silicon Valley Bank. This unique approach ensures that The Standard's stablecoins, including sEURO, remain pegged to their intended values, providing users with a reliable, secure, and stable means of borrowing and transacting in the DeFi space."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What makes The Standard Protocol different from Terra Luna, Waves, Bitshares, and other failed stablecoins?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard Protocol differentiates itself from Terra Luna, Waves, Bitshares, and other failed stablecoins by offering a more robust and reliable system, built on the principles of historically stable currency systems like the Gold Standard. Here are the key differences that make The Standard Protocol superior:Asset-Backed Stability: While algorithmic stablecoins like Terra Luna have no tangible or rare assets backing them, The Standard Protocol is backed by a diverse range of rare assets locked up by users worldwide. This decentralized approach ensures the value of the stablecoins is always supported by real-world assets, much like how the Gold Standard backed currencies with gold reserves.‍Decentralized Collateral: The Standard Protocol allows users from all around the world to voluntarily back the value of the stablecoins by locking up rare assets in Smart Vaults. This decentralized collateralization system ensures a more robust and secure value peg, as it doesn't rely on a single point of failure, unlike some other stablecoins that are secured by a single bank or institution.‍Smart Vaults and Real-World Assets: The Standard Protocol enables users to lock up various digital and tokenized physical assets in Smart Vaults as collateral. This includes cryptocurrencies, tokenized shares of blue-chip companies, indices, commodities, and real estate. This wide range of collateral options ensures the stablecoin's value is always backed by real-world value.‍Flexible Stability Mechanisms: The Standard Protocol employs multiple mechanisms, such as the Stability Pool, Smart Vaults, Minting and Burning Fees, and the Emergency Stability Fee, to keep the stablecoins pegged to their intended values. These mechanisms work in tandem to maintain price stability, even during extreme market fluctuations or black swan events.‍Community Governance: The Standard Protocol is governed by its token holders (TST) through a decentralized autonomous organization (DAO), ensuring that key decisions regarding collateral types, interest rates, and other protocol parameters are made collectively by the community. This decentralized governance model fosters transparency, security, and long-term stability.By combining the stability of historical currency systems like the Gold Standard with the decentralized nature of blockchain technology, The Standard Protocol offers a more reliable, secure, and stable means of borrowing and transacting in the DeFi space, setting it apart from failed stablecoins like Terra Luna, Waves, and Bitshares.‍"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a liquidation event in TheStandard?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A liquidation event occurs when a borrower's Smart Vault collateral is automatically sold to repurchase the generated Standard stablecoins like sEURO and burn them. This will happen due to collateral levels going under 110%. Liquidations ensure that there is always mathematically more value locked up than stablecoins in circulation. This means the stablecoins can never de-peg for long.TheStandard ensures borrowers can avoid liquidation by offering multiple mechanisms, such as auto-trading volatile assets like Ethereum for stable assets like gold during market downturns. Additionally, TheStandard provides alarm notifications to warn borrowers of potential liquidation risks and allows selling the Smart Vault key as an NFT for added liquidity. By leveraging these features, users can safeguard their assets while enjoying the benefits of borrowing funds in a DeFi environment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a liquidation event in TheStandard?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A liquidation event occurs when a borrower's Smart Vault collateral is automatically sold to repurchase the generated Standard stablecoins like sEURO and burn them. This will happen due to collateral levels going under 110%. Liquidations ensure that there is always mathematically more value locked up than stablecoins in circulation. This means the stablecoins can never de-peg for long.TheStandard ensures borrowers can avoid liquidation by offering multiple mechanisms, such as auto-trading volatile assets like Ethereum for stable assets like gold during market downturns. Additionally, TheStandard provides alarm notifications to warn borrowers of potential liquidation risks and allows selling the Smart Vault key as an NFT for added liquidity. By leveraging these features, users can safeguard their assets while enjoying the benefits of borrowing funds in a DeFi environment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is the liquidation process initiated for a smart vault in The Standard Protocol?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The liquidation process is triggered when a smart vault's collateralization ratio falls below 110%. At this point, the system initiates the liquidation process to sell the vault's collateralized assets to the participants of the liquidation pool, maintaining the stability of the protocol."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the role of the liquidation pool, and what assets are staked in the pool?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The liquidation pool plays a crucial role in enabling TST stakers to acquire liquidated assets from undercollateralized smart vaults by profiting and protecting the protocol. Participants in the liquidation pool stake sEURO and TST tokens in a 1:1 ratio (for sEURO Smart Vaults). These staked assets are used to purchase the collateralized assets from the liquidated vault, ensuring a fair and efficient liquidation process."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is the distribution of assets calculated during the liquidation process?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "During the liquidation process, the distribution of assets is calculated based on each participant's sEURO and TST stakes in the liquidation pool. The distribution percentage for each participant is determined by dividing the sum of their sEURO and TST stakes by the total sEURO and TST stakes in the pool."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the liquidation bonus, and how does it benefit the participants of the liquidation pool?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The liquidation bonus is an incentive for participants in the liquidation pool to acquire liquidated assets at approximately 10% below market value. This bonus is given to the participants because the smart vaults are liquidated when they fall below a 110% collateralization ratio. As a result, the participants receive additional value on top of their spent sEURO during the liquidation process."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How can borrowers avoid liquidation in The Standard Protocol?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Setting alarms: Borrowers can set up notifications or alarms to monitor their smart vaults' collateralization ratios closely. By staying informed about the collateralization status, borrowers can act promptly to maintain the required ratio and prevent liquidation.Trading collateral into tokenized gold: In the event of market volatility, borrowers can consider converting some of their collateral assets into a more stable tokenized gold, like PAXG. This strategy can help maintain a healthy collateralization ratio and minimize the risk of liquidation.Selling their smart vault as an NFT: Borrowers can explore the option of selling their smart vault as a non-fungible token (NFT) to another user. This way, they can transfer the responsibility of managing the vault's collateralization ratio to a new owner.Paying off some or all of the outstanding debt: If a borrower's smart vault is approaching the liquidation threshold, they can consider repaying a portion or the entire outstanding debt using their available sEURO. This action can increase the collateralization ratio and reduce the risk of liquidation.Adding more collateral: Borrowers can also add more collateral to their smart vaults to increase the collateralization ratio. By depositing additional assets, they can create a buffer against potential market fluctuations and protect their smart vaults from liquidation."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does The Standard Protocol ensure the security of its users' assets and transactions?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard Protocol takes security extremely seriously. Its core development team stemmed from one of the older exchanges in the space called Vaultoro.com, and Vaultoro (Launched in 2015) is one of the few exchanges that never had a hack. This is because the development team knows what they are doing and takes great pride in writing secure code. Several measures to ensure the security of users' assets and transactions:Smart contracts: The platform relies on smart contracts to facilitate transactions and enforce the rules of the protocol. These contracts are audited and tested to minimize the risk of vulnerabilities and errors.  Code audits: The smart contracts are audited by the best auditors in the world, Zokyo labs. The founders of Zokyo labs were there at the birth of smart contracts and arguably invented the field of smart contract auditing. Hartej Sawhney is also on the advisory board of The Standard Protocol.  AI pen testing: The development team runs some of the most sophisticated AI penetration tests over the smart contracts that hold users' funds. Bounties: The community is setting up bounties that will reward anyone that is able to find a vulnerability in one of the smart contracts.  Decentralization: The Standard Protocol operates on a decentralized network, reducing the risk of single points of failure or centralized control. Over-collateralization: The protocol requires users to lock up collateral worth more than the value of the stablecoins they borrow. This ensures that the system remains solvent and can maintain the peg of its stablecoins.  Active monitoring and risk management tools: The Standard Protocol offers users tools such as alarms and auto-trading mechanisms to help them manage their Smart Vaults and minimize the risk of liquidation. Community governance: The Standard Token (TST) holders participate in the platform's governance, contributing to the platform's development and improving its security and features over time. Please note that the developers or anyone from The Standard DAO take no responsibility for any unseen vulnerabilities or losses incurred by a breach in a smart vault due to people losing their private keys or a breach of the smart contracts themselves. All users are responsible for their own funds while using these smart contracts and all liabilities rest on the users who use the smart contracts to lock up crypto tokens. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "All the links and official contract addresses",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "‍White Paper & IBCO: https://www.thestandard.io/whitepaper‍Video Overview of TheStandard.io: https://youtu.be/zmYwuIHnxPs‍Github:https://github.com/the-standard‍TheStandard.io Social Media Channels:‍Twitter:       https://twitter.com/thestandard_io‍Youtube:     https://www.youtube.com/thestandard_io‍Facebook:   https://www.facebook.com/thestandard.io/‍LinkedIn:     https://www.linkedin.com/company/the-standard-io/‍Medium:     https://medium.com/@thestandard.io‍Reddit:         https://www.reddit.com/r/TheStandard_io/‍Instagram:  https://www.instagram.com/thestandard.io/‍TheStandard DAO‍DeWork (bounties): https://app.dework.xyz/the-standard-dao‍Snapshot (governance): https://vote.thestandard.io/  OR  https://snapshot.org/#/thestandardio.eth‍--------------------ERC20 Listings & Contracts-------------------------‍TST Coingecko Listing: https://www.coingecko.com/en/coins/standard-token‍sEURO Coingecko Listing: https://www.coingecko.com/en/coins/standard-euro‍TST CMC Listing: https://coinmarketcap.com/currencies/thestandard-io/‍sEURO CMC Listing: https://coinmarketcap.com/currencies/thestandard-io-/ ‍Mainnet ERC20 Contract Addresses:‍TST on ETH Mainnet: 0xa0b93b9e90ab887e53f9fb8728c009746e989b53  https://etherscan.io/address/0xa0b93b9e90ab887e53f9fb8728c009746e989b53‍TST on Polygon (MATIC) network: 0xe342ebb6a56cd3dbf0fe01a447fe367b9290ecf8‍ https://polygonscan.com/address/0xe342ebb6a56cd3dbf0fe01a447fe367b9290ecf8‍sEURO ETH Mainnet: 0xb399511642FE1666c6a07f83483e6E4feAed9A00‍ https://etherscan.io/address/0xb399511642FE1666c6a07f83483e6E4feAed9A00 ‍ "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What voting rights do Standard token (TST) holders have?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The minting and closing fee. Decide how best to deploy the PCV treasury to maximise returns for the protocol and TST holders. Decide on new stable assets to issue like sCURRENCIES, sGOLD, sSHARES. Decide and propose any new features and aspects of features and collateral types like new tokens, NFTs, in-game items. Due-diligence requirements for hard asset custodians. Lifting the emergency stability fee from 0% to stabilise any stablecoins that might need it. More to come  "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What responsibilities do Standard holders have?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The primary responsibility of Standard holders is to govern the protocol."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the Standard DAO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TL:DR: The Standard DAO is a dynamic, decentralized autonomous organization that empowers TST holders to participate in the governance and growth of TheStandard's DeFi platform. Through its community-focused approach, The Standard DAO fosters innovation, adaptability, and a shared commitment to the platform's ongoing success.--The Standard DAO is a decentralized autonomous organization (DAO) that oversees the governance and growth of TheStandard's DeFi platform. It comprises a community of Standard Token (TST) holders who collectively manage the ecosystem by participating in key decision-making processes through advanced voting mechanisms and prediction markets.As a decentralized platform, The Standard DAO eliminates the need for a central authority, mitigating the risks of corruption or centralized control. This community-driven approach ensures that power is distributed among TST holders, fostering a democratic and egalitarian environment for platform governance.By holding TST, users can actively contribute to the direction and development of TheStandard's DeFi lending and borrowing solutions. The Standard DAO promotes transparency, collaboration, and a shared vision for the platform's future, harnessing the collective wisdom and expertise of its diverse community."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are all Standard Token holders authorised to participate in the governance system?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes,  provided that users' Standard Tokens are staked in the correct smart contracts.. People that stake TST still control their own private keysWe are also exploring another mechanism to enable people that hold TST in cold storage to simply sign a message once to prove ownership and then be able to participate. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many votes do I get?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The number of votes you receive in TheStandard DAO's decision-making process is directly proportional to the amount of Standard Tokens (TST) you hold. Each token grants you one vote on a single voting subject. As a TST holder, you can simultaneously cast votes on multiple subjects, with your voting power being equal to the total number of tokens you hold. For instance, if you own 100 Standard Tokens, you can cast 100 votes on each open subject.The Standard DAO community is also exploring alternative voting mechanisms, such as quadratic voting. Quadratic voting is a democratic system that allows voters to express the intensity of their preferences. In this system, participants allocate a set number of voting credits to cast votes on different subjects. The cost of each additional vote on the same subject increases quadratically, ensuring that voters carefully allocate their votes based on the importance they assign to each subject. This approach aims to strike a balance between majority rule and minority protection, promoting more equitable decision-making within the community.Your voting power in TheStandard DAO depends on the number of Standard Tokens you hold, with each token granting one vote per subject. The community is also considering alternative voting systems, like quadratic voting, to ensure more balanced and fair participation in the platform's governance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the proposal system work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "This is outlined in detail within The Standard white paper but below you will find a small exert.Idea and discussion  A rough idea is first published on the Discord server and sentiment about the idea is discussed. Once the author and community are happy to formally submit the idea for a vote, it must be published in the official forum as a high-level overview without too much detail. The Standard’s forum will be the main forum used for formal discussion on SIP’s. Once a proposal author is happy with community sentiment and some of the details have been fleshed out, they can submit an official high-level proposal to the forum proposals category. This will be discussed further on the forum for a min of 7 days. Gate 1 Signalling voteThe final draft is submitted to the first gate which is used to signal general approval for the Standard improvement proposal in question. The votes will happen on Snapshot.org and will determine if the proposal goes through the first gate or is rejected. A minimum of 5 million tokens are needed to vote and 51% are needed to approve the proposal to open the gate.Validation discussionThis is where the proposal gets fleshed out and all details are discussed in the forum. Members can assess technical feasibility, scope, timelines and expected deliverables, execution plan, and where it fits into the schedule. A forum poll and SIP number are required before going on to gate two. The SIP number will be assigned after a forum poll returns positive sentiment to move forward.Gate 2 The Standard Improvement Proposal SIPGetting through the second gate will determine if a SIP is approved for execution or gets rejected by the DAO. This is done by a vote on a voting platform (for example snapshot.org). A minimum of 10 million tokens are needed to vote and 70% need to approve the proposal to go through to be executed. Naming ConventionProposals can or can not have a SIP number. It is expected that proposals follow the following naming structure to facilitate reading GATE # is the number of the gate they must pass through next‍ Without SIP # → [Gate # of #] Proposal title With a SIP # → [SIP-#] [Gate # ] Proposal title"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will there be a prediction market system?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TL:DR, While the first version of TheStandard DAO will not feature a prediction market system, the platform is committed to evaluating this option for future implementation, recognizing its potential to enhance community participation and overall governance quality.--‍The initial launch of TheStandard DAO is not planned to include a prediction market system. However, the platform recognizes the potential benefits of incorporating such a mechanism to address the DAO apathy issue, where participants may be less inclined to engage in governance without proper incentives.Prediction markets can increase participation in governance by rewarding users for making accurate forecasts on various subjects. This incentivized approach encourages more active involvement in the platform's decision making processes, ultimately leading to better governance outcomes.TheStandard DAO is actively exploring the possibility of integrating a prediction market system in future iterations of the platform. By doing so, the platform aims to foster increased community engagement and more effective governance, ensuring that TheStandard DAO remains responsive to the needs and preferences of its user base."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the benefits of using The Standard Protocol for borrowing and lending?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard Protocol Offers numerous benefits for people looking to borrow money against their crypto. Borrow money against your crypto with 0% interest: Users can borrow stablecoins like sEURO at a 0% fixed interest rate, enabling them to access funds without paying high-interest fees. Decentralized and trustless: The Standard Protocol operates on a decentralized network, eliminating the need for a central authority or intermediary, and allowing users to maintain control of their assets. Asset diversification: Users can lock up a variety of collateral types, including cryptocurrencies, tokenized real-world assets, and NFTs (depending on liquidity), providing flexibility in their borrowing and lending activities.  Enhanced security: The Standard Protocol uses smart contracts and blockchain technology to ensure the security and transparency of transactions. Active community governance: The Standard Token (TST) holders can participate in the governance of the platform, making key decisions and shaping the future of the protocol."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I start using The Standard Protocol to mint stablecoins?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Acquire a compatible cryptocurrency wallet, such as MetaMask, that can interact with decentralized applications (DApps). Add the required assets (e.g., Ethereum, Matic, or WBTC) to your wallet.  Go to app.TheStandard.io, Connect your wallet to The Standard Protocol's decentralized app. Then choose a smart vault in the stablecoin you would like to output. to start with there will be sEURO smart vaults with sUSD, sINR, sGBP, and many more rolling out. Choose the type of collateral you wish to lock up and send it to your smart vault address. Mint stablecoins like sEURO by borrowing against your collateral. Be sure not to get too close to the collateral limit. Manage your Smart Vault to ensure the collateralization ratio remains above the minimum threshold to avoid liquidation. "
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What are the future plans for The Standard Protocol, and how can I stay updated on its developments?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Standard DAO has ambitious plans to expand and improve its ecosystem, including: Adding more collateral types, such as tokenized real-world assets (tokenized stocks, commodities, and real estate). Launching additional stablecoins pegged to various fiat currencies. Developing more advanced features like prediction markets and enhanced voting mechanisms. Integrating with other DeFi platforms and applications to create a seamless user experience. Adding decentralised insurance to cover liquidation. To stay updated on The Standard Protocol's developments, you can follow their official channels, including their website, blog, social media profiles (Twitter, Telegram, and Discord), and community forums. Additionally, subscribing to their newsletter ensures that you receive the latest news and updates directly to your inbox. "
+        }
+      }
+    
+  ]
+}
